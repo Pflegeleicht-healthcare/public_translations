@@ -91,7 +91,8 @@
                     "gruen": "Grün",
                     "gelb": "Gelb",
                     "weiss": "Weiss",
-                    "rot": "Rot"
+                    "rot": "Rot",
+                    "schwarz": "Schwarz"
                 },
                 "ort": {
                     "title": "Ort",
