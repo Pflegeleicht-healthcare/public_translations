@@ -1,0 +1,175 @@
+{
+    "actions": {
+        "ausruhen": {
+            "title": "Schlafen / Ausruhen",
+            "bett-bringen": {
+                "title": "Zu Bett bringen",
+                "schlafposition": {
+                    "title": "Schlafposition",
+                    "seitenlage": "Seitenlage",
+                    "rueckenlage": "Rückenlage",
+                    "halbsitzend": "Halbsitzend",
+                    "literale_dekubituslage": "literale Dekubituslage"
+                },
+                "fersenfrei": {
+                    "title": "Fersenfrei",
+                    "ja": "ja",
+                    "nein": "nein"
+                },
+                "schlafgewohnheiten": {
+                    "title": "Schlafgewohnheiten",
+                    "licht_anlassen": "Licht anlassen",
+                    "gekipptes_fenster": "Gekipptes Fenster",
+                    "keine_vorhaenge": "Keine Vorhänge"
+                },
+                "einschraenkende_massnahmen": {
+                    "title": "Einschränkende Massnahmen",
+                    "glockenmatte": "Glockenmatte",
+                    "sensor": "Sensor",
+                    "bettgitter": "Bettgitter"
+                },
+                "hilfsmittel": {
+                    "title": "Hilfsmittel",
+                    "dekubitusmatratze": "Dekubitusmatratze",
+                    "schlangenmatratze": "Schlangenmatratze",
+                    "schlafmedikamente": "Schlafmedikamente",
+                    "schlaftee": "Schlaftee"
+                }
+            },
+            "wechsel-schlafposition": {
+                "title": "Änderung Schlafposition",
+                "schlafposition": {
+                    "title": "Schlafposition",
+                    "seitenlage": "Seitenlage",
+                    "rueckenlage": "Rückenlage",
+                    "halbsitzend": "Halbsitzend",
+                    "literale_dekubituslage": "literale Dekubituslage"
+                },
+                "fersenfrei": {
+                    "title": "Fersenfrei",
+                    "ja": "ja",
+                    "nein": "nein"
+                },
+                "hilfsmittel": {
+                    "title": "Hilfsmittel",
+                    "dekubitusmatratze": "Dekubitusmatratze",
+                    "schlangenmatratze": "Schlangenmatratze",
+                    "schlafmedikamente": "Schlafmedikamente",
+                    "schlaftee": "Schlaftee"
+                }
+            }
+        },
+        "stuhlgang": {
+            "title": "Stuhlgang",
+            "stuhlgang": {
+                "title": "Toilettengang",
+                "kleider_abziehen": {
+                    "title": "Kleider abziehen",
+                    "ja": "ja",
+                    "nein": "nein"
+                },
+                "kleider_anziehen": {
+                    "title": "Kleider abziehen",
+                    "ja": "ja",
+                    "nein": "nein"
+                },
+                "reinigen": {
+                    "title": "Reinigung",
+                    "ja": "ja",
+                    "nein": "nein"
+                },
+                "form": {
+                    "title": "Form",
+                    "fluessig": "flüssig",
+                    "breiig": "breiig",
+                    "geformt": "geformt",
+                    "fest": "fest"
+                },
+                "ort": {
+                    "title": "Ort",
+                    "toilette": "Toilette",
+                    "nachtstuhl": "Nachtstuhl",
+                    "einlage": "Einlage"
+                },
+                "einlage_wechseln": {
+                    "title": "Einlage gewechselt",
+                    "ja": "Ja",
+                    "nein": "Nein"
+                }
+            },
+            "katheter-wechsel": {
+                "title": "Katheterwechsel"
+            },
+            "zaepfchen": {
+                "title": "Zäpfchen",
+                "position": {
+                    "title": "Patientenposition",
+                    "seitlich": "seitlich",
+                    "hocken": "Hocken",
+                    "stehen": "Stehen"
+                }
+            }
+        }
+    },
+    "editor": {
+        "title": "Editor"
+    },
+    "residents": {
+        "error": {
+            "notfound": "Bewohner wurde nicht gefunden"
+        },
+        "title": "Bewohner"
+    },
+    "report": {
+        "title": "Rapportieren",
+        "actions": {
+            "record": "Rapportieren",
+            "back": "Zurück"
+        },
+        "status": {
+            "success": "Aktivität erfolgreich raportiert",
+            "fatal": "Aktivität konnte nicht raportiert werden"
+        }
+    },
+    "export": {
+        "title": "Exportieren"
+    },
+    "activities": {
+        "error": {
+            "notfound": "Aktivität wurde nicht gefunden"
+        },
+        "ingestion": {
+            "title": "Nahrungsaufnahme",
+            "portion_size": {
+                "title": "Portionengrösse",
+                "half": "Halbe Portion",
+                "full": "Ganze Portion"
+            },
+            "tools": {
+                "title": "Hilfsmittel",
+                "straw": "Strohhalm",
+                "beak_cup": "Schnabelbecher",
+                "plate_edge": "Tellerrand",
+                "thick_cutlery": "Dickes Besteck"
+            },
+            "preparations": {
+                "title": "Vorbereitungen",
+                "napkin": "Servietten",
+                "cut_food": "Essen zerschneiden",
+                "pour_drink": "Getränk einschenken"
+            },
+            "follow_up": {
+                "title": "Nachbereitungen",
+                "napkin": "Servietten",
+                "wash_hands": "Hände waschen",
+                "oral_care": "Zahnpflege"
+            }
+        },
+        "essenseingabe": {
+            "title": "Essenseingabe"
+        },
+        "ausscheidung": {
+            "title": "Ausscheidung"
+        }
+    }
+}
