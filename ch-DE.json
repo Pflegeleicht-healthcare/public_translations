@@ -73,10 +73,10 @@
                     "ja": "ja",
                     "nein": "nein"
                 },
-                "reinigen": {
+                "reinigung": {
                     "title": "Reinigung",
-                    "ja": "ja",
-                    "nein": "nein"
+                    "pp": "Pflegeperson",
+                    "selbststaendig": "selbstständig"
                 },
                 "form": {
                     "title": "Form",
@@ -85,13 +85,20 @@
                     "geformt": "geformt",
                     "fest": "fest"
                 },
+                "farbe": {
+                    "braun": "Braun",
+                    "gruen": "Grün",
+                    "gelb": "Gelb",
+                    "weiss": "Weiss",
+                    "rot": "Rot"
+                },
                 "ort": {
                     "title": "Ort",
                     "toilette": "Toilette",
                     "nachtstuhl": "Nachtstuhl",
                     "einlage": "Einlage"
                 },
-                "einlage_wechseln": {
+                "einlage_gewechselt": {
                     "title": "Einlage gewechselt",
                     "ja": "Ja",
                     "nein": "Nein"
