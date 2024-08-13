@@ -121,6 +121,8 @@
         },
         "nahrungsaufnahme": {
             "title": "Nahrungsaufnahme",
+            "essenseingabe": {
+                "title": "Essenseingabe",
             "hilfsmittel": {
                 "title": "Hilfsmittel",
                 "strohhalm": "Strohhalm",
@@ -132,6 +134,7 @@
                 "title": "Portionengrösse",
                 "halbe_portion": "Halbe Portion",
                 "ganze_portion": "Ganze Portion"
+            }
             }
         }
     },
