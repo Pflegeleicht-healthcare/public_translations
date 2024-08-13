@@ -118,6 +118,21 @@
                     "stehen": "Stehen"
                 }
             }
+        },
+        "nahrungsaufnahme": {
+            "title": "Nahrungsaufnahme",
+            "hilfsmittel": {
+                "title": "Hilfsmittel",
+                "strohhalm": "Strohhalm",
+                "schabelbecher": "Schnabelbecher",
+                "tellerrand": "Tellerrand",
+                "dickes_besteck": "Dickes Besteck"
+            },
+            "portionengroesse": {
+                "title": "Portionengrösse",
+                "halbe_portion": "Halbe Portion",
+                "ganze_portion": "Ganze Portion"
+            }
         }
     },
     "editor": {
