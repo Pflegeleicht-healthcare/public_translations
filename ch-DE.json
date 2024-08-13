@@ -86,6 +86,7 @@
                     "fest": "fest"
                 },
                 "farbe": {
+                    "title": "Farbe",
                     "braun": "Braun",
                     "gruen": "Grün",
                     "gelb": "Gelb",
