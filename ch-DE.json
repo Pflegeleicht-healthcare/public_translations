@@ -148,6 +148,18 @@
             "richten": {
                 "title": "Medikamente richten"
             }
+        },
+        "koerperpflege": {
+            "title": "Körperpflege",
+            "duschen": {
+                "title": "Dusche"
+            },
+            "haende_waschen": {
+                "title": "Hände waschen"
+            },
+            "wundversorgung": {
+                "title": "Wundversorgung"
+            }
         }
     },
     "editor": {
