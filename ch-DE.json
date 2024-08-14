@@ -159,6 +159,12 @@
             },
             "wundversorgung": {
                 "title": "Wundversorgung"
+            },
+            "zahnpflege": {
+                "title": "Zahnpflege"
+            },
+            "eincremen": {
+                "title": "Eincremen"
             }
         }
     },
