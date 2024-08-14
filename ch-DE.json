@@ -59,7 +59,7 @@
                 }
             }
         },
-        "stuhlgang": {
+        "toilettengang": {
             "title": "Stuhlgang",
             "stuhlgang": {
                 "title": "Toilettengang",
@@ -123,18 +123,30 @@
             "title": "Nahrungsaufnahme",
             "essenseingabe": {
                 "title": "Essenseingabe",
-            "hilfsmittel": {
-                "title": "Hilfsmittel",
-                "strohhalm": "Strohhalm",
-                "schabelbecher": "Schnabelbecher",
-                "tellerrand": "Tellerrand",
-                "dickes_besteck": "Dickes Besteck"
+                "hilfsmittel": {
+                    "title": "Hilfsmittel",
+                    "strohhalm": "Strohhalm",
+                    "schabelbecher": "Schnabelbecher",
+                    "tellerrand": "Tellerrand",
+                    "dickes_besteck": "Dickes Besteck"
+                },
+                "portionengroesse": {
+                    "title": "Portionengrösse",
+                    "halbe_portion": "Halbe Portion",
+                    "ganze_portion": "Ganze Portion"
+                }
             },
-            "portionengroesse": {
-                "title": "Portionengrösse",
-                "halbe_portion": "Halbe Portion",
-                "ganze_portion": "Ganze Portion"
+            "getraenk_anbieten": {
+                "title": "Getränk anbieten"
             }
+        },
+        "medikamente": {
+            "title": "Medikamente",
+            "eingeben": {
+                "title": "Medikamente eingeben"
+            },
+            "richten": {
+                "title": "Medikamente richten"
             }
         }
     },
@@ -160,43 +172,5 @@
     },
     "export": {
         "title": "Exportieren"
-    },
-    "activities": {
-        "error": {
-            "notfound": "Aktivität wurde nicht gefunden"
-        },
-        "ingestion": {
-            "title": "Nahrungsaufnahme",
-            "portion_size": {
-                "title": "Portionengrösse",
-                "half": "Halbe Portion",
-                "full": "Ganze Portion"
-            },
-            "tools": {
-                "title": "Hilfsmittel",
-                "straw": "Strohhalm",
-                "beak_cup": "Schnabelbecher",
-                "plate_edge": "Tellerrand",
-                "thick_cutlery": "Dickes Besteck"
-            },
-            "preparations": {
-                "title": "Vorbereitungen",
-                "napkin": "Servietten",
-                "cut_food": "Essen zerschneiden",
-                "pour_drink": "Getränk einschenken"
-            },
-            "follow_up": {
-                "title": "Nachbereitungen",
-                "napkin": "Servietten",
-                "wash_hands": "Hände waschen",
-                "oral_care": "Zahnpflege"
-            }
-        },
-        "essenseingabe": {
-            "title": "Essenseingabe"
-        },
-        "ausscheidung": {
-            "title": "Ausscheidung"
-        }
     }
 }
