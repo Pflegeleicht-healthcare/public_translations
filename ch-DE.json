@@ -87,7 +87,7 @@
                 },
                 "farbe": {
                     "title": "Farbe",
-                    "g": "Braun",
+                    "braun": "Braun",
                     "gruen": "Grün",
                     "gelb": "Gelb",
                     "weiss": "Weiss",
