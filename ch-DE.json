@@ -59,7 +59,7 @@
                 }
             }
         },
-        "toilettengang": {
+        "ausscheidung": {
             "title": "Stuhlgang",
             "stuhlgang": {
                 "title": "Toilettengang",
@@ -87,7 +87,7 @@
                 },
                 "farbe": {
                     "title": "Farbe",
-                    "braun": "Braun",
+                    "g": "Braun",
                     "gruen": "Grün",
                     "gelb": "Gelb",
                     "weiss": "Weiss",
@@ -102,6 +102,11 @@
                 },
                 "einlage_gewechselt": {
                     "title": "Einlage gewechselt",
+                    "ja": "Ja",
+                    "nein": "Nein"
+                },
+                "blut_im_stuhl": {
+                    "title": "Blut im Stuhl",
                     "ja": "Ja",
                     "nein": "Nein"
                 }
@@ -126,7 +131,7 @@
                 "hilfsmittel": {
                     "title": "Hilfsmittel",
                     "strohhalm": "Strohhalm",
-                    "schabelbecher": "Schnabelbecher",
+                    "schnabelbecher": "Schnabelbecher",
                     "tellerrand": "Tellerrand",
                     "dickes_besteck": "Dickes Besteck"
                 },
@@ -134,10 +139,53 @@
                     "title": "Portionengrösse",
                     "halbe_portion": "Halbe Portion",
                     "ganze_portion": "Ganze Portion"
+                },
+                "form": {
+                    "title": "Essensform",
+                    "puriert": "Püriert",
+                    "weich": "Weich",
+                    "passiert": "Passiert",
+                    "fluessig": "Flüssig",
+                    "normal": "Normal",
+                    "fingerfood": "Fingerfood",
+                    "angedickt": "Angedickt"
                 }
             },
             "getraenk_anbieten": {
-                "title": "Getränk anbieten"
+                "title": "Getränk anbieten",
+                "temperatur": {
+                    "title": "Temperatur",
+                    "kalt": "kalt",
+                    "warm": "warm",
+                    "heiss": "heiss"
+                },
+                "konsistenz": {
+                    "title": "Konsistenz",
+                    "leicht_angedickt": "leicht angedickt",
+                    "honigdick": "honigdick",
+                    "puddingdick": "puddingdick"
+                },
+                "unterstuetzungen": {
+                    "title": "Unterstützungen",
+                    "becher_halten": "Halten des Bechers"
+                },
+                "hilfsmittel": {
+                    "title": "Hilfsmittel",
+                    "strohhalm": "Strohhalm",
+                    "schnabelbecher": "Schnabelbecher"
+                },
+                "menge": {
+                    "title": "Menge (Becher)",
+                    "0": "0",
+                    "0.25": "1/4",
+                    "0.5": "1/2",
+                    "0.75": "3/4",
+                    "1.0": "1",
+                    "1.25": "1 1/4",
+                    "1.5": "1 1/4",
+                    "1.75": "1 1/2",
+                    "2.0": "1 3/4"
+                }
             }
         },
         "medikamente": {
