@@ -209,11 +209,21 @@
                 "title": "Wundversorgung"
             },
             "zahnpflege": {
-                "title": "Zahnpflege"
+                "title": "Zahnpflege",
+                "schleimhautkontrolle": {
+                    "title": "Schleimhautkontrolle",
+                    "ja": "Ja",
+                    "nein": "Nein"
+                },
+                "desinfektions_spuelung": {
+                    "title": "Spülung zur Desinfektion",
+                    "ja": "Ja",
+                    "nein": "Nein"
+                }
             },
             "eincremen": {
                 "title": "Eincremen"
-            }
+            },
         }
     },
     "editor": {
