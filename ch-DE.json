@@ -248,5 +248,25 @@
     },
     "export": {
         "title": "Exportieren"
+    },
+    "account": {
+        "username": {
+            "label": "Nutzername",
+            "hint": "Nutzername eingeben"
+        },
+        "password": {
+            "label": "Passwort",
+            "hint": "Passwort eingeben"
+        },
+        "pin": {
+            "label": "PIN",
+            "hint": "Pin eingeben"
+        },
+        "login": {
+            "title": "Anmelden",
+            "usePassword": "Mit Passwort anmelden",
+            "usePin": "Mit PIN anmelden",
+            "contact_admin": "Passwort vergessen? Kontaktiere deinen Administrator"
+        }
     }
 }
